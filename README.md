@@ -29,9 +29,9 @@ Sistem Layanan Sertifikat Tanah Terpadu
 
 
 **HALAMAN HALAMAN UTAMA**
-![App Screenshot](screenshoot/halaman-utama.png)
+![App Screenshot](screenshot/halaman-utama.png)
 **INVENTARIS DASHBOARD**
-![App Screenshot](screenshoot/dashboard.png)
+![App Screenshot](screenshot/dashboard.png)
 
 
 ## Feedback
